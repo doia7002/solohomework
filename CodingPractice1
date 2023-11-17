@@ -3,9 +3,12 @@ char* solution(int num)
   char* answer= (char)malloc(...);
 
   if(num%2==0)
+  {
     answer == Even;
+  }
   else
+  {  
     answer == Odd;
-
+  }
   return answer;
 }
